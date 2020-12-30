@@ -59,7 +59,7 @@
     "@types/flat-cache": "^2.0.0",
     "@types/minimist": "^1.2.0",
     "@types/signale": "^1.4.1",
-    "enquirer": "^2.3.5",
+    "enquirer": "^2.3.6",
     "minimist": "^1.2.5",
     "signale": "^1.4.0"
   },
